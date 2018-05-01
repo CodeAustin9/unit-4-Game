@@ -1,0 +1,84 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: rgb(133, 133, 245);
+}
+
+.container {
+	width: 1600px;
+}
+
+#heading {
+	background:yellow;
+	-moz-box-align: center
+	color: white;
+	border: 2px black;
+	width: 100%;
+	margin: 0;
+	padding: 40px;
+	text-align: center;
+	font-family:  'Source Sans Pro', sans-serif;
+	font-size: 60px;
+
+}
+
+#gameRules {
+	background: white;
+	color: black;
+	width: 100%;
+	margin: 0;
+	padding: 50px;
+	text-align: left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+
+}
+
+
+
+
+#totalScore {
+	width: 33%;
+	margin-top: 0;
+	padding: 0, 20px, 20px, 20px;
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+	height: 60px;
+	
+}
+
+#crystals {
+	background: black;
+	color: white;
+	width: 100%;
+	margin: 0;
+	text-align: center;
+	float: center;
+	padding-top: 50px;
+	position: fixed;
+	bottom: 10px;
+	clear: both;
+}
+
+img {
+	height: 125px;
+	width: 175px;
+	margin: 0 auto;
+	padding-right: 25px;
+	float: center;
+	bottom: 10px;
+}
+
+
+
+	
+
+
+
+
+
+
+
